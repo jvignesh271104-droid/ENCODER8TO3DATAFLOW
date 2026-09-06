@@ -47,6 +47,7 @@ For different input combinations generate the timing diagram.
 Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
 Developed by: Jaiakash J
+
 RegisterNumber: 212225240055
 ```
 module exp5(din,a,b,c);
